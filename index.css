@@ -85,7 +85,7 @@ padding:15px ;
   align-items: flex-end;
   justify-content: space-between;
    padding:10px;
-   height:250px;
+   height:260px;
    
 
 }
@@ -100,10 +100,14 @@ padding:15px ;
 .p-all{
   color:hsl(0, 0%, 100%);
   font-size: 15px;
-  width:300px;
-  height: 75px;
+  width:265px;
+  height: 80px;
   line-height: 1.4;
-  padding: 10px;
+  padding: 20px;
+  padding-bottom: 40px;
+    padding-top: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 .person{
   display: flex;
